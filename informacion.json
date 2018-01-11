@@ -1,0 +1,43 @@
+{
+  "usuario": [
+    {
+      "id": 1,
+      "nombre": "Miguel Antonio",
+      "apellido": "Gonzales Guacho",
+      "saldo": "1800"
+    },
+    {
+      "id": 2,
+      "nombre": "Arcangel Manuel",
+      "apellido": "Perez",
+      "saldo": "1620"
+    },
+    {
+      "id": 3,
+      "nombre": "Jorge",
+      "apellido": "Gutierrez",
+      "saldo": "871"
+    },
+    {
+      "id": 4,
+      "nombre": "Jose Enrique",
+      "apellido": "Gonzales",
+      "saldo": "1250"
+    },
+    {
+      "id": 5,
+      "nombre": "Alfredo",
+      "apellido": "Gernandez",
+      "saldo": "2460"
+    },
+    {
+      "id": 6,
+      "nombre": "Antonio",
+      "apellido": "Guerrero",
+      "saldo": "284"
+    },
+    {
+      "id": 7
+    }
+  ]
+}
